@@ -69,14 +69,6 @@ b.) 3.0 e 2.0
 c.) -3.0 e 2.0
 d.) -2.0 e -3.0
 ---------------------------------------------- historico
-/*
----------------------------------------------- documentacao complementar
----------------------------------------------- notas / observacoes / comentarios
----------------------------------------------- previsao de testes
-a.) 3 e 5
-b.) -3 e 5
-c.) -3 e -5
----------------------------------------------- historico
 Versao Data Modificacao6
 0.1 __/__ esboco
 0.2 __/__ mudanca de versao para double
