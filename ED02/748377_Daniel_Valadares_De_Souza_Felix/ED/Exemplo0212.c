@@ -35,7 +35,7 @@ int main()
     if (x > -50)
     {
       // mostrar se maior que -50
-      IO_printf("\t%s\n", "E maior que (-50) ");
+      IO_printf("\t%s\n", "E maior que (-50)");
     }
     else
     {

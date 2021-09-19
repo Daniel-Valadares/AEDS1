@@ -51,7 +51,7 @@ int main()
       // mostrar se nao pertencente ao outro intervalo
       IO_printf("\n\t%s\n", "E tambem nao pertence ao intervaldo [20:60]");
     }
-  } // fim se
+  } // fim else
   // encerrar
   IO_pause("Apertar ENTER para terminar");
   return (0);

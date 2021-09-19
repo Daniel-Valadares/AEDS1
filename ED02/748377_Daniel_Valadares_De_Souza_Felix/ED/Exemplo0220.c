@@ -75,9 +75,9 @@ Versao Data Modificacao
  0.15 __/__ teste com dois intervalos
  0.16 __/__ teste de par ou impar com multiplos int
  0.17 __/__ teste de par ou impar com multiplos int e negativo e positivo
- 0.18 __/__ teste de comparacao de inteiros
- 0.19 __/__ teste de comparacao de multiplos inteiros
- 0.20 __/__ mudanca no teste de comparacao de multiplos inteiros
+ 0.18 __/__ teste de comparacao de reais
+ 0.19 __/__ teste de comparacao de multiplos reais
+ 0.20 __/__ mudanca no teste de comparacao de multiplos reais
 ---------------------------------------------- testes
 Versao Teste
  0.1  01. ( OK ) identificacao de programa
@@ -97,7 +97,7 @@ Versao Teste
  0.15 01. ( OK ) teste de idetificacao de intervalos simultaneos
  0.16 01. ( OK ) teste de idetificacao de multiplos int com par ou impar
  0.17 01. ( OK ) teste de idetificacao de multiplos int com par ou impar e negativo e positivo
- 0.18 01. ( OK ) teste de comparacao de valores inteiros
- 0.19 01. ( OK ) teste de comparacao de multiplos valores inteiros
- 0.20 01. ( OK ) mudanca no teste de comparacao de multiplos valores inteiros
+ 0.18 01. ( OK ) teste de comparacao de valores reais
+ 0.19 01. ( OK ) teste de comparacao de multiplos valores reais
+ 0.20 01. ( OK ) mudanca no teste de comparacao de multiplos valores reais
  */

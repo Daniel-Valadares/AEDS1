@@ -34,13 +34,13 @@ int main()
     // mostrar valor pertencente ao intervalo
     IO_printf("\n\t%s%d%s\n", "O valor ", x,
               " pertence ao intervaldo (15:45)");
-  }
+  } // end if
   else
   {
     // mostrar valor nao pertencente ao intervalo
     IO_printf("\n\t%s%d%s\n", "O valor ", x,
               " nao pertence ao intervaldo (15:45)");
-  } // fim se
+  } // end else
   // encerrar
   IO_pause("Apertar ENTER para terminar");
   return (0);

@@ -31,12 +31,12 @@ int main()
   if ((x & 1) == 0) // testar se par
   {
     // mostrar valor igual a par
-    IO_printf("\n\t%s (%d)\n", "Valor par igual a ", x);
+    IO_printf("\n\t%s(%d)\n", "Valor par igual a ", x);
   }
   else
   {
     // mostrar valor igual a impar
-    IO_printf("\n\t%s (%d)\n", "Valor impar igual a ", x);
+    IO_printf("\n\t%s(%d)\n", "Valor impar igual a ", x);
   } // fim se
   // encerrar
   IO_pause("Apertar ENTER para terminar");

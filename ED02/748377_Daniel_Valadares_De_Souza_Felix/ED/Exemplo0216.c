@@ -33,7 +33,7 @@ int main()
     // mostrar se impar
     IO_printf("\n\t%s%d%s\n", "O valor ", x,
               " nao e par");
-  }                    // end else
+  } // end else
   if (!((y & 1) == 0)) // testar se y = impar
   {
     // mostrar se impar

@@ -1,7 +1,6 @@
 /*
  Exemplo0217 - v0.0. - __ / __ / _____
  Author: 748377_Daniel_Valadares_De_Souza_Felix
-
 // dependencias
 */
 #include "io.h" // para definicoes proprias

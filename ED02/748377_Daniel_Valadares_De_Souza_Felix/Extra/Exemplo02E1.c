@@ -1,5 +1,5 @@
 /*
- Exemplo02E1 - v0.0. - __ / __ / _____
+ Exemplo02E1 - v0.0. - __ / __ / ____
  Author: 748377_Daniel_Valadares_De_Souza_Felix
 
 // dependencias

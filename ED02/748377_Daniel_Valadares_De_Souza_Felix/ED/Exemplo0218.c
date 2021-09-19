@@ -24,17 +24,17 @@ int main()
   // testar valor
   if (x == y) // testar se x = y
   {
-    IO_printf("\n\t%s%lf%s%lf\n", "O valor ", x, " e igual a ", y);
+    IO_printf("\n\t%s%lf%s%lf\n", "O valor ", y, " e igual a ", x);
   }
   else
   {
-    if (x > y) // testar se x > y
+    if (y > x) // testar se y > x
     {
-      IO_printf("\n\t%s%lf%s%lf\n", "O valor ", x, " e maior que ", y);
+      IO_printf("\n\t%s%lf%s%lf\n", "O valor ", y, " e maior que ", x);
     }
     else
     {
-      IO_printf("\n\t%s%lf%s%lf\n", "O valor ", x, " e menor que ", y);
+      IO_printf("\n\t%s%lf%s%lf\n", "O valor ", y, " e menor que ", x);
     } // end else
   }   // end else
   // encerrar
@@ -70,7 +70,7 @@ Versao Data Modificacao
  0.15 __/__ teste com dois intervalos
  0.16 __/__ teste de par ou impar com multiplos int
  0.17 __/__ teste de par ou impar com multiplos int e negativo e positivo
- 0.18 __/__ teste de comparacao de inteiros
+ 0.18 __/__ teste de comparacao de reais
 ---------------------------------------------- testes
 Versao Teste
  0.1  01. ( OK ) identificacao de programa
@@ -90,5 +90,5 @@ Versao Teste
  0.15 01. ( OK ) teste de idetificacao de intervalos simultaneos
  0.16 01. ( OK ) teste de idetificacao de multiplos int com par ou impar
  0.17 01. ( OK ) teste de idetificacao de multiplos int com par ou impar e negativo e positivo
- 0.18 01. ( OK ) teste de comparacao de valores inteiros
+ 0.18 01. ( OK ) teste de comparacao de valores reais
  */
