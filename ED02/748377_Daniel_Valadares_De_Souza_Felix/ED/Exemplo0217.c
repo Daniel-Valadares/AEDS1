@@ -21,7 +21,7 @@ int main()
   x = IO_readint("Entrar com um valor inteiro: ");
   y = IO_readint("Entrar com um outro valor inteiro: ");
   // testar valor
-  if (!((x & 1) == 0)) // testar se x != par
+  if (!(x%2==0)) // testar se x = impar
   {
     // mostrar se impar
     IO_printf("\n\t%s%d%s\n", "O valor ", x,
@@ -53,7 +53,7 @@ int main()
       IO_printf("\t%s\n", "E tambem nao e negativo");
     }                 // end else
   }                   // end else
-  if (((y & 1) == 0)) // testar se y = par
+  if (y%2==0) // testar se y = par
   {
     // mostrar se impar
     IO_printf("\n\t%s%d%s\n", "O valor ", y,

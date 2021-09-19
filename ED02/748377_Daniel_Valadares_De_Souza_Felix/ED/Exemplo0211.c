@@ -28,7 +28,7 @@ int main()
   // ler do teclado
   x = IO_readint("Entrar com um valor inteiro: ");
   // testar valor
-  if ((x & 1) == 0) // testar se par
+  if (x%2==0) // testar se par
   {
     // mostrar valor igual a par
     IO_printf("\n\t%s(%d)\n", "Valor par igual a ", x);
