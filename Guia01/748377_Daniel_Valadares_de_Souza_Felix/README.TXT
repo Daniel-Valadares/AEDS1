@@ -1,5 +1,0 @@
-748377 Daniel Valadares de Souza Felix
-
-Professor, tinha sido um dos alunos removidos de sua sala, acabei retornando a ela. Lembro de ter lhe falado por volta de terça que enviaria a atividade, mas tinha sido removido do teams e do canvas, fora que acho bom lhe avisar porque imagino que lhe deram acesso a algum documento relatando as transferências de turma e o senhor pode ter feito algum planejamento em cima disso.
-Apenas tive a oportunidade de enviar o guia agora, já que finalmente voltei ao canvas e ao teams da turma do senhor. Quanto ao resto não possuo mais nada a comentar, vi as gravações de suas aulas recentes e estou ansioso para voltar a ter aulas ao vivo com o senhor.
-No mais, gostaria de agradecer a essa atividade introdutória a linguagem c++, creio que consegui tirar boas noções lendo os comentário dos guias enquanto lia e escrevia os códigos.

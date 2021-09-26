@@ -1,9 +1,0 @@
-748377_Daniel_Valadares_De_Souza_Felix
-
-Theldo, tive pouco tempo nessa semana então tive que fazer a atividade meio as pressas. Enquanto a fazia tive algumas questões, vou lista-las abaixo:
-
-1-> Tentei fazer o comando que o senhor demonstrou na sua aula laboratorial de sexta as 10:40, que se consistia em fazer um comando para colocar uma fileira de paredes no mundo, ao tentar aplica-lá deu alguns erros, que por questão de tempo, resolvi fazer manualmente. O erro se dava quanto o x e y da Biblioteca do karel.hpp, alegando estar em conflito.
-2-> No exercício do Guia0215 me surgiu uma duvida de interpretação. Como estava fora de horário de monitoria e era final de semana resolvi não incomodar você ou os monitores. Basicamente, fiquei em duvida de se o exemplo do mundo do exercício era para o mundo ser construído por meio desse padrão ou não, e apos isso se era para reiniciar a formatação do mundo ou não. Seguindo a logica que os exercícios vinham apresentando iniciei o mundo com o padrão do exemplo do próprio exercício e não o reiniciei. Caso esteja errado posso corrigir e enviar de volta ao senhor.
-3-> Na descrições do Guia0211 até o 0214, não era pedido para recordar um documento com as ações executadas. Entretanto tentei mesmo assim, mas vários problema ocorriam quando tentava fazer o documento gravar os comandos enviados pelo "void doTask();". O comando conflitava com o void, e novamente por questão de tempo tive que optar por não olhar essa questão.
-
-Esses são meus comentários, peço perdão por ter tido pouco tempo essa semana, infelizmente, alguns familiares passaram por problemas de saudê e não tive muito tempo ou deposição para as atividade. Creio que esse problema não afetara futura entregas. Mesmo assim, creio que consegui evoluir com o pouco tempo que tive para fazer a atividade. Agradeço pela atenção e peço perdão pelo texto longo.
