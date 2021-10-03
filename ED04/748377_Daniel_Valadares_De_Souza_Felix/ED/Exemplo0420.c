@@ -76,13 +76,11 @@ void method0420()
 
     // quantidade de cadeias a serem guardadas
     quantidade = IO_readint("Insira o numero de cadeia que serao inseridas: ");
-    if (quantidade <= 0)
+    // testar se quantidade e valida
+    while (quantidade <= 0)
     {
-        while (quantidade <= 0)
-        {
-            IO_printf("Erro: valor invalido colocado\n");
-            quantidade = IO_readint("Insira o numero de cadeia que serao inseridas: ");
-        }
+        IO_printf("Erro: valor invalido colocado\n");
+        quantidade = IO_readint("Insira o numero de cadeia que serao inseridas: ");
     }
 
     // guardar as cadeias
